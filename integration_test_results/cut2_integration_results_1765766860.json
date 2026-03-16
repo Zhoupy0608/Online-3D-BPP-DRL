@@ -1,7 +1,0 @@
-{
-  "test_summary": {
-    "baseline_avg_utilization": 0.568,
-    "enhanced_avg_utilization": 0.5835999999999999,
-    "utilization_improvement": 0.015599999999999947,
-    "utilization_improvement_pct": 2.746478873239427,
-    "target_achieved": 
