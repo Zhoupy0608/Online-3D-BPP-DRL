@@ -23,3 +23,15 @@ data/labels/
 # 排除 Python 缓存和日志
 __pycache__/
 runs/
+
+# 排除所有 JSON 结果文件
+*.json
+
+# 排除所有测试、调试脚本（如果这些脚本你以后还想本地用，但不想上传）
+debug_*.py
+check_*.py
+example_*.py
+test_*.py
+performance_analysis_results_*.json
+*_results.json
+*_command.txt
