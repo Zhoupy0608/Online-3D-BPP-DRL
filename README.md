@@ -34,6 +34,7 @@
 
 ## 🚀 环境与运行
 
-### 环境配置
+### 环境配置+运行实验
 ```bash
 pip install -r requirements.txt
+python unified_test.py
