@@ -1,0 +1,4 @@
+# file: D:\Online-3D-BPP-DRL(My-reliable-robot-packing)\Online-3D-BPP-DRL\baselines\common\vec_env\dummy_vec_env.py
+# hypothesis_version: 6.148.2
+
+['human', 'rgb_array']

@@ -1,0 +1,4 @@
+# file: D:\Online-3D-BPP-DRL(My-reliable-robot-packing)\Online-3D-BPP-DRL\acktr\distributions.py
+# hypothesis_version: 6.148.2
+
+[1e-12, 1e-05, 0.01, 0.5, 10000.0]

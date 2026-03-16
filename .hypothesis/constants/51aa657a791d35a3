@@ -1,0 +1,4 @@
+# file: D:\Online-3D-BPP-DRL\baselines\logger.py
+# hypothesis_version: 6.148.2
+
+[-44.4, -22.5, -2.5, 2.5, 5.5, '#', '%-8.3g', ',', '-', '-rank%03i', '...', '/tmp/testlogging', 'Logging to %s', 'OMPI_COMM_WORLD_RANK', 'OPENAI_LOGDIR', 'OPENAI_LOG_FORMAT', 'PMI_RANK', 'Reset logger', '__float__', '__main__', 'a', 'b', 'csv', 'dtype', 'dummy', 'events', 'events.', 'events.*', 'hi', 'json', 'log', 'log%s.txt', 'progress%s.csv', 'progress%s.json', 'read', 'rt', 'should appear', "shouldn't appear", 'simple_value', 'stdout', 'stdout,log,csv', 'tag', 'tb%s', 'tensorboard', 'w+t', 'wait_', 'wt', '| %s%s | %s%s |']

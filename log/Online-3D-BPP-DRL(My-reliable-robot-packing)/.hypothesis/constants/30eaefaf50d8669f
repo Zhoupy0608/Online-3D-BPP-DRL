@@ -1,0 +1,4 @@
+# file: D:\Online-3D-BPP-DRL(My-reliable-robot-packing)\Online-3D-BPP-DRL\baselines\common\console_util.py
+# hypothesis_version: 6.148.2
+
+[0.0001, 10000.0, '\x1b[%sm%s\x1b[0m', ' | ', '%7.2e', '%7.5f', '-', '--format=%B', '--short', '-s', '1', ';', '=: ', 'CMD: ', 'DRY: ', 'HEAD', 'done in %.3f seconds', 'git', 'green', 'magenta', 'rev-parse', 'show', 'utf8']

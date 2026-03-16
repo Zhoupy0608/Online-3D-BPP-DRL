@@ -1,0 +1,1 @@
+python multi_process_test.py --load-model --load_dir ./saved_models/continued_training/test12_12_22/ --load_name Bpp-v02025.12.22-10-37.pt --data_name dataset/cut_2.pt --use-cuda --num_processes 12 --cases 100

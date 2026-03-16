@@ -1,0 +1,25 @@
+venv/
+.venv/
+Lib/
+Scripts/
+Include/
+pyvenv.cfg
+*.pyc
+*.xml
+.idea/*
+runs/*
+saved_models/*
+logs/
+*.log
+# 排除 YOLOv5 的权重
+*.pt
+*.onnx
+
+# 排除数据集
+datasets/
+data/images/
+data/labels/
+
+# 排除 Python 缓存和日志
+__pycache__/
+runs/

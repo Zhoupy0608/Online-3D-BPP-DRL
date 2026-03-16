@@ -1,0 +1,12 @@
+Looking in indexes: http://mirrors.gdut.edu.cn/pypi/simple
+Collecting hypothesis
+  Downloading http://mirrors.gdut.edu.cn/pypi/packages/14/fa/4acb477b86a94571958bd337eae5baf334d21b8c98a04b594d0dad381ba8/hypothesis-6.113.0-py3-none-any.whl (469 kB)
+Collecting attrs>=22.2.0 (from hypothesis)
+  Using cached http://mirrors.gdut.edu.cn/pypi/packages/77/06/bb80f5f86020c4551da315d78b3ab75e8228f89f0162f2c3a819e407941a/attrs-25.3.0-py3-none-any.whl (63 kB)
+Collecting sortedcontainers<3.0.0,>=2.1.0 (from hypothesis)
+  Downloading http://mirrors.gdut.edu.cn/pypi/packages/32/46/9cb0e58b2deb7f82b84065f37f3bffeb12413f947f9388e4cac22c4621ce/sortedcontainers-2.4.0-py2.py3-none-any.whl (29 kB)
+Collecting exceptiongroup>=1.0.0 (from hypothesis)
+  Downloading http://mirrors.gdut.edu.cn/pypi/packages/8a/0e/97c33bf5009bdbac74fd2beace167cab3f978feb69cc36f1ef79360d6c4e/exceptiongroup-1.3.1-py3-none-any.whl (16 kB)
+Requirement already satisfied: typing-extensions>=4.6.0 in d:\online-3d-bpp-drl(my-reliable-robot-packing)\online-3d-bpp-drl\online-3d-bpp-drl\lib\site-packages (from exceptiongroup>=1.0.0->hypothesis) (4.13.2)
+Installing collected packages: sortedcontainers, exceptiongroup, attrs, hypothesis
+Successfully installed attrs-25.3.0 exceptiongroup-1.3.1 hypothesis-6.113.0 sortedcontainers-2.4.0

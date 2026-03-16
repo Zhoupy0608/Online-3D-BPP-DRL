@@ -1,0 +1,4 @@
+# file: D:\Online-3D-BPP-DRL\baselines\common\vec_env\vec_normalize.py
+# hypothesis_version: 6.148.2
+
+[0.0, 1e-08, 0.99, 10.0]

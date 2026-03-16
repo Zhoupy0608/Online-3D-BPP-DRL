@@ -1,0 +1,4 @@
+# file: D:\Online-3D-BPP-DRL(My-reliable-robot-packing)\Online-3D-BPP-DRL\acktr\visual_feedback.py
+# hypothesis_version: 6.148.2
+
+[1e-06, 0.1, 0.5, 10000, 'bounding_box_fitting', 'ignore']

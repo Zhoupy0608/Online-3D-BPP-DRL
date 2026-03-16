@@ -1,0 +1,4 @@
+# file: D:\Online-3D-BPP-DRL\baselines\common\vec_env\subproc_vec_env.py
+# hypothesis_version: 6.148.2
+
+['close', 'get_spaces_spec', 'render', 'reset', 'rgb_array', 'spawn', 'step']

@@ -1,0 +1,4 @@
+# file: D:\Online-3D-BPP-DRL\acktr\performance_optimizer.py
+# hypothesis_version: 6.148.2
+
+[0.0, 0.01, 10.0, 1000, '-', 'avg_time', 'buffer_space', 'collision_free', 'count', 'hit_rate', 'hits', 'inf', 'max_size', 'max_time', 'min_time', 'misses', 'position', 'size', 'total_time', 'weight']

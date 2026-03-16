@@ -1,0 +1,4 @@
+# file: D:\Online-3D-BPP-DRL\baselines\common\vec_env\shmem_vec_env.py
+# hypothesis_version: 6.148.2
+
+['close', 'human', 'render', 'reset', 'rgb_array', 'spawn', 'step']

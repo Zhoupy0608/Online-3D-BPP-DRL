@@ -1,0 +1,4 @@
+# file: D:\Online-3D-BPP-DRL(My-reliable-robot-packing)\Online-3D-BPP-DRL\acktr\algo\kfac.py
+# hypothesis_version: 6.148.2
+
+[1e-10, 1e-06, 0.001, 0.01, 0.25, 0.9, 0.99, 1.0, 'AddBias', 'Conv2d', 'ConvTranspose2d', 'Linear', 'bias']

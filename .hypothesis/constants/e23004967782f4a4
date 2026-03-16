@@ -1,0 +1,4 @@
+# file: D:\Online-3D-BPP-DRL\acktr\model.py
+# hypothesis_version: 6.148.2
+
+[0.0, 0.5, 255.0, 256, 512, '../', 'Discrete', 'bias', 'relu', 'weight']

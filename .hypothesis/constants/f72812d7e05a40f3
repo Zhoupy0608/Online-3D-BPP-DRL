@@ -1,0 +1,4 @@
+# file: D:\Online-3D-BPP-DRL\baselines\common\vec_env\vec_env.py
+# hypothesis_version: 6.148.2
+
+['OMPI_', 'PMI_', '_', 'human', 'render.modes', 'rgb_array']
