@@ -35,3 +35,5 @@ test_*.py
 performance_analysis_results_*.json
 *_results.json
 *_command.txt
+
+.kiro/
